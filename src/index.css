@@ -1,0 +1,33 @@
+.mainStyle{
+   /* background-image: linear-gradient (to right  rgb(119, 151, 119) rgb(124, 124, 92));*/
+    background-image: linear-gradient(to bottom right, rgb(214, 106, 106), rgb(230, 230, 79));
+    border: 3px solid rgb(175, 209, 219);
+    border-radius: 10px;
+    width: fit-content;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    margin-top:px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 300px;
+    padding: 4px 4px ;
+    
+}
+.main{
+   /* background-image: linear-gradient (to right  rgb(119, 151, 119) rgb(124, 124, 92));*/
+    background-image: linear-gradient(to bottom right, rgb(235, 170, 248), rgb(190, 145, 204));
+    border: 3px solid rgb(103, 199, 228);
+    border-radius: 10px;
+    width: fit-content;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    margin-top:200px ;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    padding: 7px 7px ;
+    
+}
