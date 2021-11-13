@@ -1,5 +1,5 @@
 import React from "react";
-import '../index.css'
+import './index.css'
 
 
 const currTime = new Date().getHours();
@@ -38,4 +38,5 @@ return (
         </div>
 );
 }
+
 export default Greet;

@@ -1,7 +1,7 @@
  
 import React from "react";
-import Greet from "./components/Greet";
-import Head from "./components/Head";
+import Greet from "./Greet";
+import Head from "./Head";
 
 
 function App(){
